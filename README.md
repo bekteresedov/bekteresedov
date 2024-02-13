@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baktar Asadov</h1>
-<h3 align="center">Software developer (JavaScript|TypeScript|React.js|Next.js|Node.js|Express.js|SQL|Mongo|ORM(Mongoose|Sequelize ) from Azerbaijan</h3>
+<h3 align="center">Software developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekteresedov&label=Profile%20views&color=0e75b6&style=flat" alt="bekteresedov" /> </p>
 
